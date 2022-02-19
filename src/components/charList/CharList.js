@@ -1,6 +1,5 @@
 import './charList.scss';
 import MarvelService from '../../services/MarvelService';
-//import abyss from '../../resources/img/abyss.jpg';
 import { Component } from 'react';
 
 class CharList extends Component {
